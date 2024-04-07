@@ -1,6 +1,7 @@
 # Hi there! I'm Agustin Russo 🌟
 
-Welcome to my profile! I'm a Data Science student and Python backend developer based in Buenos Aires, Argentina. 
+Welcome to my profile! I'm a Data Science student and Python backend developer based in Buenos Aires, Argentina.
+
 I'm passionate about exploring the world of data science and creating innovative solutions.
 
 ## About Me
@@ -12,7 +13,6 @@ I'm passionate about exploring the world of data science and creating innovative
 
 ## Contact
 
-- 📧 Email: [[Your Email]](https://mail.google.com/mail/u/1/#inbox)
-- 🔗 LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/agus-russo/)
-- 🔗 GitHub: [[Your GitHub Profile]
-](https://github.com/agusruss0)
+- 📧 [Email](https://mail.google.com/mail/u/1/#inbox)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/agus-russo/)
+- 🔗 [Github](https://github.com/agusruss0)
