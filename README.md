@@ -15,4 +15,3 @@ I'm passionate about exploring the world of data science and creating innovative
 
 - 📧 [Email](https://mail.google.com/mail/u/1/#inbox)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/agus-russo/)
-- 🔗 [Github](https://github.com/agusruss0)
